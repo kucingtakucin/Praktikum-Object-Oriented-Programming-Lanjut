@@ -1,0 +1,15 @@
+package vokasi.d3ti.interinner;
+
+public class InnerUkuran {
+
+	class BesarUkuran {
+		double besar = 0;
+		int awal = 0;
+		int akhir = 0;
+		double pengali = 1;
+		
+		BesarUkuran(String awal, String akhir, double besar){
+			
+		}
+	}
+}

@@ -1,0 +1,2 @@
+module tugas1InnerClass {
+}

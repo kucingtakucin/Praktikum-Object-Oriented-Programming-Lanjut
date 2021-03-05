@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+G:\12. Praktikum OOP Lanjut\OOP Workspace\.metadata\.plugins\org.eclipse.jdt.core
+4189433488.index
+3764905676.index

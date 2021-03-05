@@ -1,0 +1,5 @@
+package tugas;
+
+public interface TransformasiSuhu {
+
+}
