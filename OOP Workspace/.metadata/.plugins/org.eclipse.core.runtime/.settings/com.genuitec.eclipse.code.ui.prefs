@@ -8,3 +8,4 @@ eclipse.preferences.version=1
 ignore.virus.scanning.warn.message=true
 reportFirstEditorOpened=1614909378178
 reportMetricsAfterFirstEditor=true
+request.editor.usage.survey=false

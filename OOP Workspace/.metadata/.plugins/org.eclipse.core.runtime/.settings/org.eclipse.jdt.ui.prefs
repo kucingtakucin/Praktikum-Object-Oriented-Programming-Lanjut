@@ -1,4 +1,4 @@
-content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"/>
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="java.nio.file.OpenOption"><rhs name\="java.nio.file.StandardOpenOption"/></lhs></history>
 content_assist_number_of_computers=17
 eclipse.preferences.version=1
 org.eclipse.jdt.ui.formatterprofiles.version=20
