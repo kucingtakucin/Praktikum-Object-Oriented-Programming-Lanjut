@@ -14,4 +14,13 @@
     <fullyQualifiedTypeName name="java.nio.file.Files"/>
     <fullyQualifiedTypeName name="java.nio.charset.Charset"/>
     <fullyQualifiedTypeName name="java.nio.file.StandardOpenOption"/>
+    <fullyQualifiedTypeName name="java.awt.Image"/>
+    <fullyQualifiedTypeName name="java.net.URL"/>
+    <fullyQualifiedTypeName name="java.awt.Panel"/>
+    <fullyQualifiedTypeName name="java.awt.Dialog"/>
+    <fullyQualifiedTypeName name="java.awt.event.WindowListener"/>
+    <fullyQualifiedTypeName name="java.awt.Frame"/>
+    <fullyQualifiedTypeName name="java.awt.Button"/>
+    <fullyQualifiedTypeName name="java.awt.Label"/>
+    <fullyQualifiedTypeName name="java.awt.Event"/>
 </qualifiedTypeNameHistroy>

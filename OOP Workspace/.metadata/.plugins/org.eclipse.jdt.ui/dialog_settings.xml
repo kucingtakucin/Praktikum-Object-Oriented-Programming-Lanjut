@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
-	<item key="org.eclipse.jdt.ui.last.selected.jre.kind2" value="2"/>
+	<item key="org.eclipse.jdt.ui.last.selected.jre.kind2" value="1"/>
 	<item key="org.eclipse.jdt.ui.last.selected.execution.enviroment" value="JavaSE-15"/>
+	<item key="filters_last_used" value="filter_imports;"/>
 	<section name="org.eclipse.jdt.internal.ui.packageview.PackageExplorerPart">
 		<item key="group_libraries" value="true"/>
 		<item key="layout" value="2"/>
@@ -22,6 +23,7 @@
 	</section>
 	<section name="OptionalMessageDialog.hide.">
 		<item key="org.eclipse.jdt.ui.typecomment.deprecated" value="true"/>
+		<item key="configure_problem_severity_dialog_id" value="false"/>
 	</section>
 	<section name="NewClassWizardPage">
 		<item key="create_constructor" value="false"/>
@@ -47,7 +49,19 @@
 	<section name="JavaSearchPage">
 		<item key="CASE_SENSITIVE" value="false"/>
 		<item key="INCLUDE_MASK" value="11"/>
-		<item key="HISTORY_SIZE" value="0"/>
+		<item key="HISTORY_SIZE" value="1"/>
+		<section name="HISTORY0">
+			<item key="searchFor" value="0"/>
+			<item key="scope" value="0"/>
+			<item key="pattern" value="Terminal"/>
+			<item key="limitTo" value="2"/>
+			<item key="matchLocations" value="0"/>
+			<item key="javaElement" value=""/>
+			<item key="isCaseSensitive" value="false"/>
+			<item key="includeMask" value="11"/>
+			<list key="workingSets">
+			</list>
+		</section>
 	</section>
 	<section name="org.eclipse.jdt.internal.ui.dialogs.OpenTypeSelectionDialog2">
 		<item key="ShowStatusLine" value="true"/>
@@ -63,9 +77,31 @@
 	</section>
 	<section name="org.eclipse.jdt.internal.ui.text.QuickOutline">
 		<item key="GoIntoTopLevelTypeAction.isChecked" value="false"/>
-		<item key="org.eclipse.jdt.internal.ui.text.JavaOutlineInformationControlDIALOG_WIDTH" value="350"/>
-		<item key="org.eclipse.jdt.internal.ui.text.JavaOutlineInformationControlDIALOG_HEIGHT" value="300"/>
+		<item key="org.eclipse.jdt.internal.ui.text.JavaOutlineInformationControlDIALOG_WIDTH" value="500"/>
+		<item key="org.eclipse.jdt.internal.ui.text.JavaOutlineInformationControlDIALOG_HEIGHT" value="440"/>
 		<item key="org.eclipse.jdt.internal.ui.text.JavaOutlineInformationControlDIALOG_USE_PERSISTED_SIZE" value="true"/>
 		<item key="org.eclipse.jdt.internal.ui.text.JavaOutlineInformationControlDIALOG_USE_PERSISTED_LOCATION" value="false"/>
+	</section>
+	<section name="BuildPathsPropertyPage">
+		<item key="pageIndex" value="2"/>
+	</section>
+	<section name="ClasspathContainerSelectionPage">
+		<item key="index" value="3"/>
+	</section>
+	<section name="ProblemSeveritiesConfigurationBlock">
+		<item key="expanded0" value="true"/>
+		<item key="expanded1" value="false"/>
+		<item key="expanded2" value="false"/>
+		<item key="expanded3" value="false"/>
+		<item key="expanded4" value="false"/>
+		<item key="expanded5" value="false"/>
+		<item key="expanded6" value="false"/>
+		<item key="expanded7" value="false"/>
+		<item key="expanded8" value="false"/>
+	</section>
+	<section name="JavaBuildConfigurationBlock">
+		<item key="expanded0" value="true"/>
+		<item key="expanded1" value="false"/>
+		<item key="expanded2" value="false"/>
 	</section>
 </section>

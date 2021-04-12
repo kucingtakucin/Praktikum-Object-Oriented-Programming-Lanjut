@@ -11,12 +11,11 @@ public class Tugas {
 		I3.start();
 		I2.start();
 		try {
-			Thread.sleep(3000);
+			I3.sleep(3000);
 		} catch (InterruptedException e) {
 			// TODO: handle exception
 			e.printStackTrace();
 		}
 		I4.start();
-	
 	}
 }
