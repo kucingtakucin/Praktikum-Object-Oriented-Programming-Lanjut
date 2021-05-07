@@ -1,6 +1,6 @@
 package vokasi.d3ti.io;
 
-import java.io.BufferedReader;
+import ja`va.io.BufferedReader;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
